@@ -1,0 +1,31 @@
+p {
+    font-size: 18pt;
+}
+.header {
+    background-color: #222;
+    color: #fff;
+    height: 50px;
+    font-size: 40px;
+    font-style:bold;
+}
+
+.footer {
+    background-color: #444;
+    color: #fff;
+    height: 80px;
+    width: 50%;
+}
+
+.rightCol {
+    background-color: #fff;
+    height: 50px;
+    float: right;
+    width:50%;
+}
+
+.leftCol {
+    background-color: #888;
+    height: 50px;
+    float:left;
+    width:50%;
+}
